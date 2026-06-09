@@ -1,6 +1,6 @@
 # Gestionale Garage in C++
 
-Questo è un semplice progetto in C++ da riga di comando che simula la gestione di un garage di veicoli. L'obiettivo principale è mettere in pratica i concetti fondamentali della programmazione orientata agli oggetti (OOP) e capire come gestire i flussi di dati quando si lavora direttamente con la memoria del computer (lo Heap).
+Questo è un semplice progetto in C++ da riga di comando che simula la gestione di un garage di veicoli. L'obiettivo principale è mettere in pratica i concetti fondamentali della programmazione orientata agli oggetti (OOP).
 
 Il programma permette all'utente di creare un elenco di veicoli personalizzato, inserendo sia auto elettriche che auto diesel, e calcola in automatico l'autonomia di ogni mezzo in base allo stato della batteria o ai litri di carburante rimasti.
 
