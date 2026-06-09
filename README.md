@@ -90,6 +90,6 @@ Ecco cosa compare a schermo quando si avvia il programma e si inseriscono due au
 [*] Marca: Audi
 [*] Autonomia: 675
 
-[*] Adessen libero la memoria. Dealloco dall'heap 
+[*] Adesso libero la memoria. Dealloco dall'heap 
 [*] Distruttore di AutoElettrica invocato
 [*] Distruttore di AutoDiesel invocato
